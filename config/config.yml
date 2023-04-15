@@ -1,0 +1,12 @@
+file_number: 5
+data_path : D:\Docs\GitHub\IODO
+dataFolder : files
+color : blue
+brand : ford
+city: new york
+cabriolet:
+    color : black
+    engine:
+        cylinders : 8
+        placement : mid
+    doors : 2
